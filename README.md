@@ -1,6 +1,6 @@
-# ✨ Signalist – AI-Powered Stock Market App
+# ✨ TradeInsight – AI-Powered Trading Insights
 
-<img width="1911" height="854" alt="Screenshot 2025-10-24 124942" src="https://github.com/user-attachments/assets/7f72aa9d-bddc-4fb2-bf61-29f61949553c" />
+<!-- <img width="1911" height="854" alt="Screenshot 2025-10-24 124942" src="https://github.com/user-attachments/assets/7f72aa9d-bddc-4fb2-bf61-29f61949553c" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="1888" height="855" alt="Screenshot 2025-10-24 124815" src="https://github.com/user-attachments/assets/256c1d83-eabd-4111-8cbf-c6c811310e9f" />
@@ -23,11 +23,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 
----
+--- -->
 
 ## ✨ Introduction
 
-Signalist is a modern, AI-powered stock market app built with **Next.js**, **Shadcn**, **Better Auth**, and **Inngest**. Track real-time prices, set personalized alerts, explore company insights, and manage watchlists.  
+TradeInsight is a modern, – AI-Powered Trading Insights built with **Next.js**, **Shadcn**, **Better Auth**, and **Inngest**. Track real-time prices, set personalized alerts, explore company insights, and manage watchlists.  
 
 The admin dashboard allows managing stocks, publishing news, and monitoring user activity, while event-driven workflows power automated alerts, AI-driven daily digests, earnings notifications, and sentiment analysis—perfect for developers who want a dynamic, real-time financial platform.
 
@@ -80,9 +80,9 @@ The admin dashboard allows managing stocks, publishing news, and monitoring user
 
 …and many more features including reusable code architecture and a modular, scalable design.
 
-## 🌐 Live Demo
+<!-- ## 🌐 Live Demo
 
-Try the app live here: [Signalist Live](https://stocks-app-seven.vercel.app/sign-in)
+Try the app live here: [Signalist Live](https://stocks-app-seven.vercel.app/sign-in) -->
 
 ---
 
