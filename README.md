@@ -88,7 +88,7 @@ Try the app live here: [Signalist Live](https://stocks-app-seven.vercel.app/sign
 
 ## 📂 Repository
 
-Check out the full code here: [GitHub Repo](https://github.com/Abhiraj36/Stocks-App)
+Check out the full code here: [GitHub Repo](https://github.com/sharmin-iffat/TradeInsight)
 
 
 ---
